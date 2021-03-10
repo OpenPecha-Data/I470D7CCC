@@ -10,38 +10,46 @@ source_metadata:
       title: ''
       volume_number: 1
       total_pages: 672
+      base_file: v001.txt
     43989800967444a8b4573bac0376118b:
       image_group_id: I4PD2024
       title: ''
       volume_number: 2
       total_pages: 868
+      base_file: v002.txt
     0a247b9a6d5e4bf6bbebfb93911c568f:
       image_group_id: I4PD2025
       title: ''
       volume_number: 3
       total_pages: 604
+      base_file: v003.txt
     d6b326f4290f4f8c95cdb58517fc9dfa:
       image_group_id: I4PD2026
       title: ''
       volume_number: 4
       total_pages: 694
+      base_file: v004.txt
     ee58659a1ec548a9915ef82d84aa282e:
       image_group_id: I4PD2027
       title: ''
       volume_number: 5
       total_pages: 762
+      base_file: v005.txt
     0c386090869f4798a5e1147f5a72db86:
       image_group_id: I4PD2028
       title: ''
       volume_number: 6
       total_pages: 586
+      base_file: v006.txt
     7a3aecd1f4b1419f82ab2bdcc0ffb568:
       image_group_id: I4PD2029
       title: ''
       volume_number: 7
       total_pages: 718
+      base_file: v007.txt
     3670b2b0e5cd497890b719e0332f79ef:
       image_group_id: I4PD2030
       title: ''
       volume_number: 8
       total_pages: 698
+      base_file: v008.txt
